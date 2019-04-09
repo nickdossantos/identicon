@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**Identicon POF Application**
 
 ## Installation
 
